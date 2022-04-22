@@ -7,6 +7,20 @@ body{
     margin-right: auto;
     margin-top: 100px;
 }
+
 a {
     color:blue;
+}
+
+#beschrijving li div{
+    display: flex;
+    align-items: center;
+}
+
+#beschrijving li div img {
+    margin-right: 10px;
+}
+
+#intro{
+    display: flex;
 }
